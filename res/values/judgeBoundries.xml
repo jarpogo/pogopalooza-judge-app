@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="createJam">30</string>
+    <string name="diffJam">30</string>
+    <string name="varJam">30</string>
+    <string name="styleJam">10</string>
+    
+    <string name="createSolo">25</string>
+    <string name="diffSolo">30</string>
+    <string name="varSolo">25</string>
+    <string name="styleSolo">10</string>
+    <string name="landSolo">10</string>
+
+</resources>

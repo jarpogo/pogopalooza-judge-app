@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Judge App</string>
+
+    <string-array name="event_array">    
+        <item>Big Air Final</item>
+        <item>Big Air Qual</item>
+        <item>Tech Final</item>
+        <item>Tech Qual</item>
+    </string-array>
+
+</resources>
